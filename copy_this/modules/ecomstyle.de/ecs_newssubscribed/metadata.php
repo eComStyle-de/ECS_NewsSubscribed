@@ -5,7 +5,7 @@ $aModule = array(
     'title'        => '<strong style="color:#04B431;">e</strong><strong>ComStyle.de</strong>:  <i>NewsSubscribed</i>',
     'description'  => array(
         'de' => 'Fuer Newsletterabonnenten wird die Option "Newsletter abonnieren" bei der Bestellung nicht angezeigt.
-                <br><iframe frameborder="no" width="600px" height="400px" src="http://tinyurl.com/m23ozfo"></iframe>',
+                <br><iframe frameborder="no" width="600px" height="400px" src="https://ssl-account.com/incl.oxidtheme.de/gratis.html"></iframe>',
     ),
     'thumbnail'    => 'ecomstyle.png',
     'version'      => '1.0',
