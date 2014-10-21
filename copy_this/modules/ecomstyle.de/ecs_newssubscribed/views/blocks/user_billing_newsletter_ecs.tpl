@@ -1,4 +1,4 @@
-<?php
+[{*
 /*    Please retain this copyright header in all versions of the software
  *
  *    Copyright (C) 2014  Josef A. Puckl | eComStyle.de
@@ -16,4 +16,7 @@
  *    You should have received a copy of the GNU General Public License
  *    along with this program.  If not, see {http://www.gnu.org/licenses/}.
  */
-$sVendorMetadataVersion = '1.0';
+*}]
+[{ if (($oxcmp_user) != null) && !$oxcmp_user->inGroup( 'oxidnewsletter' ) }]
+    [{$smarty.block.parent}]
+[{/if}]

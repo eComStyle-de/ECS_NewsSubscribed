@@ -5,24 +5,22 @@ Fuer Newsletterabonnenten wird die Option "Newsletter abonnieren" bei der Bestel
 
 Installation: 
 
-    1. Inhalt von "copy_this" in den Shophauptordner kopieren.
-	
-	2. tmp und tmp/smarty leeren.
-	
-	3. Modul aktivieren unter  "Erweiterungen" -> "Module".
+	1. Kopiere den Inhalt von "copy_this" in den Shophauptordner
 
-	4. Moduleinstellungen vornehmen.
+	2. Aktiviere das neue Modul unter Erweiterungen/Module
+
+	3. Leere die Ordner /tmp und tmp/smarty
 	
 Shopversion:
 
-	4.6, 4.7, 4.8
+	OXID eShop CE 4.7 bis 4.9
 	
 Licensing: 
 
 	eComStyle.de
 	Author: Josef Andreas Puckl
 
-	Copyright 2013 eComStyle.de
+	Copyright 2014 eComStyle.de
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
