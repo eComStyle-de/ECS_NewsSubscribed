@@ -21,8 +21,7 @@ $aModule = array(
     'id'            => 'ecs_newssubscribed',
     'title'         => '<strong style="color:#04B431;">e</strong><strong>ComStyle.de</strong>:  <i>NewsSubscribed</i>',
     'description'   => array(
-                    'de' => 'Fuer Newsletterabonnenten wird die Option "Newsletter abonnieren" bei der Bestellung nicht angezeigt.
-                    <br><iframe frameborder="no" width="600px" height="400px" src="https://ssl-account.com/incl.oxidtheme.de/gratis.html"></iframe>',
+                    'de' => 'Fuer Newsletterabonnenten wird die Option "Newsletter abonnieren" bei der Bestellung nicht angezeigt.',
     ),
     'version'       => '1.1',
     'thumbnail'     => 'ecomstyle.png',
